@@ -1,6 +1,6 @@
 Name:               hmatrix-tests
 Version:            0.4
-License:            GPL
+License:            BSD3
 License-file:       LICENSE
 Author:             Alberto Ruiz
 Maintainer:         Alberto Ruiz <aruiz@um.es>
